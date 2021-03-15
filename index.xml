@@ -8,11 +8,20 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://robertsando2.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Yo</title>
+      <title>Roberto Sandoval Del Valle</title>
       <link>https://robertsando2.github.io/docs/post-1/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://robertsando2.github.io/docs/post-1/</guid>
+      <description>Contenido de mí.</description>
+    </item>
+    
+    <item>
+      <title>Yo</title>
+      <link>https://robertsando2.github.io/docs/yo/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://robertsando2.github.io/docs/yo/</guid>
       <description>Contenido de mi Post-1 con Hugo</description>
     </item>
     
