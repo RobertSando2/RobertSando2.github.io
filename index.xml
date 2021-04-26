@@ -26,24 +26,6 @@
     </item>
     
     <item>
-      <title>Fosdinovo</title>
-      <link>https://robertsando2.github.io/docs/fosdinovo/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://robertsando2.github.io/docs/fosdinovo/</guid>
-      <description>Proyecto Unidad 1.</description>
-    </item>
-    
-    <item>
-      <title>Fotogrametría</title>
-      <link>https://robertsando2.github.io/docs/fotogrametria/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://robertsando2.github.io/docs/fotogrametria/</guid>
-      <description>Ejercicio con programa ReCap Photo</description>
-    </item>
-    
-    <item>
       <title>Grupo 6</title>
       <link>https://robertsando2.github.io/docs/grupo-6/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
@@ -62,12 +44,39 @@
     </item>
     
     <item>
+      <title>Fosdinovo</title>
+      <link>https://robertsando2.github.io/docs/fosdinovo/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://robertsando2.github.io/docs/fosdinovo/</guid>
+      <description>Proyecto Unidad 1.</description>
+    </item>
+    
+    <item>
       <title>Ejemplos Markdown</title>
       <link>https://robertsando2.github.io/docs/markdown/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://robertsando2.github.io/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Fotogrametría</title>
+      <link>https://robertsando2.github.io/docs/fotogrametria/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://robertsando2.github.io/docs/fotogrametria/</guid>
+      <description>Ejercicio con programa ReCap Photo</description>
+    </item>
+    
+    <item>
+      <title>Fusion360 y Cura</title>
+      <link>https://robertsando2.github.io/docs/ejercicio-fusion360/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://robertsando2.github.io/docs/ejercicio-fusion360/</guid>
+      <description>Ejercicio con programa Fusion360 y Ultimaker Cura.</description>
     </item>
     
   </channel>
