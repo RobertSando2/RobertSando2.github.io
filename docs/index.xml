@@ -88,5 +88,14 @@
       <description>Este es un resumen de mi proyecto &amp;ldquo;Capilla de Mármol&amp;rdquo;, de la unidad Bits&amp;amp;Bites.</description>
     </item>
     
+    <item>
+      <title>Encargo 14 de Junio</title>
+      <link>https://robertsando2.github.io/docs/encargo-14-de-junio/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://robertsando2.github.io/docs/encargo-14-de-junio/</guid>
+      <description>Entrega encargo procedente a la unidad 3, al día del 14 de Junio del 2021. Nuestro referente es el arquitecto japonés Sou Fujimoto.</description>
+    </item>
+    
   </channel>
 </rss>
